@@ -1,0 +1,1 @@
+What about detecting almost every object in details?
